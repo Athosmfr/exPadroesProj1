@@ -2,9 +2,9 @@ package Ex02;
 
 public class Pessoa {
 	
-	String cpf;
-	String nome;
-	String email;
+	String cpf; 
+	String nome; 
+	String email; 
 	
 	public String salvar() {
 		return "";
