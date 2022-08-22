@@ -1,6 +1,6 @@
 package Ex02;
 
-public class Teste {
+public class Teste02 {
 	
 	public static void main(String[] args) {
 		
